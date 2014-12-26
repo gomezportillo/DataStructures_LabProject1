@@ -1,6 +1,6 @@
 /**
  * This is the main class of the proyect. From here, it is call the class Factory and made it work until it finish
- * @author Pedro Manuel Gómez-Portillo López, David Ruiz Carrasco & Miriam Castillo Torroba
+ * @author Pedro Manuel Gómez-Portillo López
  * @version 19.Oct.2014
  */
 public class Principal {
