@@ -1,5 +1,6 @@
 
 BOTTLING AND STORAGE PLANT
+======================================
 Problem description
 This project considers the simulation of an energy drink bottling and packing plant. The plant has
 the following elements:  
