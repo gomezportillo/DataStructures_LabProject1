@@ -1,6 +1,6 @@
 /**
  * This class will be the definer of the object box
- * @author David Ruiz Carrasco
+ * @author Pedro Manuel Gómez-Portillo López
  * @version 2.Oct.2014
  */
 public class Box {
