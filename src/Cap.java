@@ -1,6 +1,6 @@
 /**
  * This class will implement the object cap
- * @author Miriam Castillo Torroba
+ * @author Pedro Manuel Gómez-Portillo López
  * @version 2.Oct.2014
  */
 
